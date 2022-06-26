@@ -2,7 +2,7 @@
 
 🔷 06.26.2022
 
-🔷 Netlify demo: ###
+🔷 Netlify demo: https://sellimenes-basic-accordion-react.netlify.app/
 
 🔷 Summary: Small practice to use offline data, useState and conditional rendering.
 
