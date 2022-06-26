@@ -1,20 +1,9 @@
-#### Idea
+🔷 Selim Enes Erdogan
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+🔷 06.26.2022
 
-![](./idea.png);
+🔷 Netlify demo: https://sellimenes-basic-accordion-react.netlify.app/
 
-#### React Icons
+🔷 Summary: Small practice to use offline data, useState and conditional rendering.
 
-[react icons](https://react-icons.github.io/react-icons/)
-
-```
-npm install react-icons --save
-```
-
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+![image](https://user-images.githubusercontent.com/23125375/175804489-eef2d18d-cdaf-4c19-b1ad-c563a46176bf.png)
